@@ -1,0 +1,6 @@
+{
+  "rice": {"price_cents": 499, "size": 5, "unit": "pounds"},
+  "milk": {"price_cents": 389, "size": 1, "unit": "gallons"},
+  "coffee": {"price_cents": 899, "size": 12, "unit": "ounces"},
+  "bleach": {"price_cents": 349, "size": 1, "unit": "gallons"}
+}
